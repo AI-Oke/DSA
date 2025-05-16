@@ -36,4 +36,4 @@ if __name__ == "__main__":
     print(check_number("1337")) # False
     print(check_number("0127491390")) # False
     print(check_number("8910231367")) # False
-    print(check_number("100000007")) # True
+    print(check_number("100000007")) # False
